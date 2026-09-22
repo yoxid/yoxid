@@ -35,6 +35,10 @@
 
 ### 🚀 Featured Projects
 
+* 🐳 **[Event-Driven ML Infrastructure: Text & Image Analysis](https://github.com/yoxid/Infraestructura-de-analisis-de-Texto-e-Imagenes)**
+  * **Description:** Designed a containerized microservices architecture for asynchronous machine learning inference. Uses an event-driven approach to process NLP (RoBERTa sentiment analysis) and Computer Vision (MNIST classification) tasks concurrently, featuring REST APIs and centralized data logging.
+  * **Technology:** Python, Docker, RabbitMQ, Flask, PyTorch, Hugging Face, Microservices.
+
 * ⚓ **[Reinforcement Learning Environment: Pirate Ship](https://github.com/daaniii22/ROS2-spaceship)**
   * **Description:** Development of a custom stochastic marine simulation environment modeling a complex Markov Decision Process (MDP).
   * **Technology:** Built under the Gymnasium API using Python, NumPy, and Pygame. Implemented and benchmarked Q-Learning, SARSA, and Monte Carlo algorithms.
@@ -46,6 +50,7 @@
 * 🗄️ **[NoSQL Database Systems: Cassandra & Redis](https://github.com/yoxid/Practica_bbdd)**
   * **Description:** Practical implementation and querying of NoSQL database architectures. Explores data modeling and performance optimization using wide-column (Cassandra) and in-memory key-value (Redis) data stores.
   * **Technology:** Apache Cassandra, Redis, NoSQL Data Modeling.
+
 
 ---
 
