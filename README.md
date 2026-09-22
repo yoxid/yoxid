@@ -33,6 +33,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
+
+* ⚓ **[Reinforcement Learning Environment: Pirate Ship](https://github.com/daaniii22/ROS2-spaceship)**
+  * **Description:** Development of a custom stochastic marine simulation environment modeling a complex Markov Decision Process (MDP).
+  * **Technology:** Built under the Gymnasium API using Python, NumPy, and Pygame. Implemented and benchmarked Q-Learning, SARSA, and Monte Carlo algorithms.
+
+* 🏭 **[Automated Big Data Infrastructure (Madrid Data Lake)](https://github.com/DavidSanru/practica2IBDGrupo3 )**
+  * **Description:** Containerized microservices architecture designed for automated daily ingestion, ETL transformation, and visualization of urban environmental data.
+  * **Technology:** Event-driven pipeline orchestration with n8n, RabbitMQ distributed queues, persistent S3 storage on MinIO, PostgreSQL, and Apache Superset dashboards.
+
+* 🗄️ **[NoSQL Database Systems: Cassandra & Redis](https://github.com/yoxid/Practica_bbdd)**
+  * **Description:** Practical implementation and querying of NoSQL database architectures. Explores data modeling and performance optimization using wide-column (Cassandra) and in-memory key-value (Redis) data stores.
+  * **Technology:** Apache Cassandra, Redis, NoSQL Data Modeling.
+
+---
 
 
